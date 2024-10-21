@@ -31,7 +31,7 @@
     "build:dev": "NODE_ENV=development npx tsx src/bundler",
     "build": "npx tsx src/bundler",
     "patch": "npx patch-package @libsql/libsql-wasm-experimental --exclude='nothing'",
-    "postinstall": "patch-package",
+    "postinstall:local": "npx patch-package",
     "prepublishOnly": "npm run build",
     "pretest:deno": "npm run build:dev",
     "pretest:node": "npm run build:dev",
