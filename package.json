@@ -18,7 +18,7 @@
     "libSQL",
     "wasm"
   ],
-  "homepage": "https://bunny-launcher.net/bunny-databases/libsql/",
+  "homepage": "https://bunny-launcher.net/databases/libsql/",
   "bugs": "https://github.com/jlarmstrongiv/bunny-libsql/issues",
   "repository": {
     "type": "git",

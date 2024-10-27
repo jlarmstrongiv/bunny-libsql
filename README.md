@@ -10,4 +10,4 @@ npm install bunny-libsql
 
 ## Documentation
 
-Please read the [docs](https://bunny-launcher.net/bunny-databases/libsql/) for usage and examples.
+Please read the [docs](https://bunny-launcher.net/databases/libsql/) for usage and examples.
